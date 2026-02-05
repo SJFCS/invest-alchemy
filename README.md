@@ -106,3 +106,13 @@ Invest Alchemy is a trading assistant focused on ETF portfolios. For more contex
 ## Video Log
 
 - [Invest Alchemy Dev Log](https://youtu.be/i3RDqAd9LKs)
+
+---
+
+## About the Author
+
+This project is maintained by the creator of **MyInvestPilot** —
+a systematic investment assistance platform focused on
+rule-based, long-term investing and transparent strategy research.
+
+🔗 https://www.myinvestpilot.com
